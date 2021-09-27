@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResetApiModeloDDD.Application\ResetApiModeloDDD.Application.csproj" />
+    <ProjectReference Include="..\ResetApiModeloDDD.Domain.Core\ResetApiModeloDDD.Domain.Core.csproj" />
+    <ProjectReference Include="..\ResetApiModeloDDD.Domain\ResetApiModeloDDD.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

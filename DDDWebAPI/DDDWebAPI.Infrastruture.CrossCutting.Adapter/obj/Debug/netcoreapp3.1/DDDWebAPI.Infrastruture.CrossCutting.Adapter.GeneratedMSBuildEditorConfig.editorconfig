@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DDDWebAPI.Infrastruture.CrossCutting.Adapter
+build_property.ProjectDir = C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\

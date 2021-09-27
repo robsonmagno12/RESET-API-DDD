@@ -1,0 +1,10 @@
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.deps.json
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.dll
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.pdb
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.AssemblyInfo.cs
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.dll
+C:\Users\Robson Magno\Documents\Visual Studio 2019\Projects\DDD 3.0\ResetApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\ResetApiModeloDDD.Domain.pdb

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain.Core\\ResetApiModeloDDD.Domain.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain.Core\\ResetApiModeloDDD.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain.Core\\ResetApiModeloDDD.Domain.Core.csproj",
+        "projectName": "ResetApiModeloDDD.Domain.Core",
+        "projectPath": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain.Core\\ResetApiModeloDDD.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Robson Magno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Robson Magno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain\\ResetApiModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain\\ResetApiModeloDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain\\ResetApiModeloDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain\\ResetApiModeloDDD.Domain.csproj",
+        "projectName": "ResetApiModeloDDD.Domain",
+        "projectPath": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain\\ResetApiModeloDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\Robson Magno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\DDD 3.0\\ResetApiModeloDDD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Robson Magno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
